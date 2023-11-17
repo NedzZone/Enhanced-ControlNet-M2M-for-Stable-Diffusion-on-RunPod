@@ -33,6 +33,9 @@ Feel free to fork this repository and contribute. If you encounter any issues or
 ## Acknowledgments
 Thanks to the Stable Diffusion community for their continuous support and inspiration.
 
+## Special Thanks
+A heartfelt thank you to the RunPod team for supporting our project and providing exceptional developer support. Their contributions have been invaluable in making this project a success.
+
 ## License
 MIT License
 
