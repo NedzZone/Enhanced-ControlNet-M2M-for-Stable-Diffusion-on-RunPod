@@ -15,10 +15,17 @@ This script is a modified version of the original `movie2movie.py` used in Stabl
 - Stable Diffusion installed on RunPod.
 - "Allow other scripts to control this extension" option enabled in Stable Diffusion UI settings.
 
+![Allow other scripts to control this extension](Allow%20other%20scripts%20to%20control%20this%20extension.jpg)
+
 ## Getting Started
 1. Place your video file in the RunPod environment.
-2. Input the path of the video in the provided textbox, adding `/` at the beginning of the path.
+
+![CopyPath](CopyPath.jpg)
+
+2. Input the path of the video in the provided textbox.
 3. Run the script as usual in Stable Diffusion.
+
+![Controlnet](Controlnet.jpg)
 
 ## Contributing
 Feel free to fork this repository and contribute. If you encounter any issues or have suggestions, please open an issue or submit a pull request.
